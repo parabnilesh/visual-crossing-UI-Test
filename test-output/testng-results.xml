@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-09T05:41:54 IST" name="Suite" finished-at="2023-08-09T05:42:05 IST" duration-ms="11006">
+    <groups>
+    </groups>
+    <test started-at="2023-08-09T05:41:54 IST" name="Test" finished-at="2023-08-09T05:42:05 IST" duration-ms="11006">
+      <class name="com.visualcrossing.tests.VisualCrossingUITest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.visualcrossing.tests.VisualCrossingUITest@15bb5034]" started-at="2023-08-09T05:41:54 IST" name="setUp" finished-at="2023-08-09T05:42:00 IST" duration-ms="6018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testWeatherForecast()[pri:1, instance:com.visualcrossing.tests.VisualCrossingUITest@15bb5034]" started-at="2023-08-09T05:42:00 IST" name="testWeatherForecast" finished-at="2023-08-09T05:42:03 IST" duration-ms="2353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWeatherForecast -->
+        <test-method signature="testDefaultValueOfTemp()[pri:2, instance:com.visualcrossing.tests.VisualCrossingUITest@15bb5034]" started-at="2023-08-09T05:42:03 IST" name="testDefaultValueOfTemp" finished-at="2023-08-09T05:42:04 IST" duration-ms="919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDefaultValueOfTemp -->
+        <test-method signature="testDefaultValueOfFeelsLike()[pri:3, instance:com.visualcrossing.tests.VisualCrossingUITest@15bb5034]" started-at="2023-08-09T05:42:04 IST" name="testDefaultValueOfFeelsLike" finished-at="2023-08-09T05:42:04 IST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDefaultValueOfFeelsLike -->
+        <test-method signature="testDefaultValueOfRain()[pri:4, instance:com.visualcrossing.tests.VisualCrossingUITest@15bb5034]" started-at="2023-08-09T05:42:04 IST" name="testDefaultValueOfRain" finished-at="2023-08-09T05:42:04 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDefaultValueOfRain -->
+        <test-method signature="testDefaultValueOfWind()[pri:5, instance:com.visualcrossing.tests.VisualCrossingUITest@15bb5034]" started-at="2023-08-09T05:42:04 IST" name="testDefaultValueOfWind" finished-at="2023-08-09T05:42:04 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDefaultValueOfWind -->
+        <test-method signature="testValuesAfterClickingBtnFahrenheit()[pri:6, instance:com.visualcrossing.tests.VisualCrossingUITest@15bb5034]" started-at="2023-08-09T05:42:04 IST" name="testValuesAfterClickingBtnFahrenheit" finished-at="2023-08-09T05:42:05 IST" duration-ms="1269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testValuesAfterClickingBtnFahrenheit -->
+        <test-method signature="testOutlookPanelsCount()[pri:7, instance:com.visualcrossing.tests.VisualCrossingUITest@15bb5034]" started-at="2023-08-09T05:42:05 IST" name="testOutlookPanelsCount" finished-at="2023-08-09T05:42:05 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOutlookPanelsCount -->
+        <test-method signature="testOutlookDates()[pri:8, instance:com.visualcrossing.tests.VisualCrossingUITest@15bb5034]" started-at="2023-08-09T05:42:05 IST" name="testOutlookDates" finished-at="2023-08-09T05:42:05 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOutlookDates -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.visualcrossing.tests.VisualCrossingUITest@15bb5034]" started-at="2023-08-09T05:42:05 IST" name="tearDown" finished-at="2023-08-09T05:42:05 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.visualcrossing.tests.VisualCrossingUITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
